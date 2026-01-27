@@ -1,2 +1,2 @@
 # LeetCode-Solutions
-Naghul-Pranac32
+Naghul-Pranav32
